@@ -25,27 +25,27 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ### **Text Extraction**
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/text-extraction.png)
+![Resume Text Extraction](https://github.com/THARUNESHWAR-369/ResumeRevealer/blob/main/assets/text-extraction.png)
 
 ### **Resume Section**
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/resume-section.png)
+![Resume Text Extraction](https://github.com/THARUNESHWAR-369/ResumeRevealer/blob/main/assets/resume-section.png)
 
 ### **Find Job Title**
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/jobtitle.png)
+![Resume Text Extraction](https://github.com/THARUNESHWAR-369/ResumeRevealer/blob/main/assets/jobtitle.png)
 
 ### **Find ONET-Occupation**
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/onet-occupation.png)
+![Resume Text Extraction](https://github.com/THARUNESHWAR-369/ResumeRevealer/blob/main/assets/onet-occupation.png)
 
 ### **Extract Skills from Porject Description**
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/skills-proj-desp.png)
+![Resume Text Extraction](https://github.com/THARUNESHWAR-369/ResumeRevealer/blob/main/assets/skills-proj-desp.png)
 
 ## Demo
 
-https://github.com/HariR1893/CyberX-ResumeRevealer/assets/84437531/c30d47a2-1e1f-44ab-b63f-a9f853b50fc2
+https://github.com/THARUNESHWAR-369/ResumeRevealer/assets/84437531/c30d47a2-1e1f-44ab-b63f-a9f853b50fc2
 
 
 ## Installation
@@ -55,8 +55,8 @@ Install ResumeRevealer with python >= 3.9
 > Tested on python 3.11
 
 ```bash
-  git clone https://github.com/HariR1893/CyberX-ResumeRevealer.git
-  cd CyberX-ResumeRevealer
+  git clone https://github.com/THARUNESHWAR-369/ResumeRevealer.git
+  cd ResumeRevealer
 ```
 
 Install the requirements.
